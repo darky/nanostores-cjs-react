@@ -23,7 +23,7 @@ specifiers:
   eslint-plugin-react-hooks: ^4.6.0
   jsdom: ^20.0.0
   nanodelay: ^2.0.2
-  nanostores: ^0.7.0
+  nanostores-cjs: ^0.7.1
   react: ^18.2.0
   react-dom: ^18.2.0
   size-limit: ^8.1.0
@@ -58,7 +58,7 @@ devDependencies:
   eslint-plugin-react-hooks: 4.6.0_eslint@8.23.0
   jsdom: 20.0.0
   nanodelay: 2.0.2
-  nanostores: 0.7.0
+  nanostores-cjs: 0.7.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   size-limit: 8.1.0
@@ -2330,8 +2330,8 @@ packages:
       picocolors: 1.0.0
     dev: true
 
-  /nanostores/0.7.0:
-    resolution: {integrity: sha512-y+ma9MVXuPzXKEXaRYW/iL/xG/HtMwB8fmFcMfUqt5fCNR/na2kDubbZGV4furUMTgmxfySJs0cQjORWhaPDyA==}
+  /nanostores-cjs/0.7.1:
+    resolution: {integrity: sha512-Vz4z29MVZ87Z1KTldeXSCmWPDSiQ7e/HQSUitASbqh23TbkXHlgJjDxV0KdMOaJUP8jI1wZBBtT2knHssXkAkw==}
     engines: {node: ^14.0.0 || ^16.0.0 || >=18.0.0}
     dev: true
 

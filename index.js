@@ -1,4 +1,4 @@
-import { listenKeys } from 'nanostores'
+import { listenKeys } from 'nanostores-cjs'
 import { useCallback } from 'react'
 import { useSyncExternalStore } from 'use-sync-external-store/shim/index.js'
 

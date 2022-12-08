@@ -5,7 +5,7 @@ import {
   onMount,
   atom,
   map
-} from 'nanostores'
+} from 'nanostores-cjs'
 import React, { FC, ReactNode } from 'react'
 import { render, act, screen } from '@testing-library/react'
 import { equal, is } from 'uvu/assert'

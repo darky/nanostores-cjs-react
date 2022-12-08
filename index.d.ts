@@ -1,4 +1,4 @@
-import { MapStore, Store, StoreValue } from 'nanostores'
+import { MapStore, Store, StoreValue } from 'nanostores-cjs'
 
 type AllKeys<T> = T extends any ? keyof T : never
 
